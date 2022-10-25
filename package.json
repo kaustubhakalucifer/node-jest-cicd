@@ -12,6 +12,6 @@
   "dependencies": {
     "express": "^4.17.2",
     "jest": "^27.4.7",
-    "supertest": "^6.2.2"
+    "supertest": "^6.3.1"
   }
 }
